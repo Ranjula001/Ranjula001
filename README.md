@@ -11,7 +11,7 @@ I’m an undergraduate at **SLIIT** and a passionate developer who enjoys buildi
 - 🌱 Learning: **Advanced React, TypeScript, ML models, UI/UX**  
 - 💼 Completed 1-year internship as a **React.js Frontend Engineer at Codezilla**  
 - 🎨 Love building clean UI with **Tailwind, MUI, Framer Motion**  
-- ⚡ Fun fact: I love aesthetic music & guitar solos 🎸  
+- ⚡ Fun fact: I love aesthetic music & guitar solos 🎸
 
 ---
 
