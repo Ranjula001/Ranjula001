@@ -7,7 +7,7 @@ I’m an undergraduate at **SLIIT** and a passionate developer who enjoys buildi
 ---
 
 ### 🧑‍💻 About Me  
-- 🔭 Currently working on: **Modern portfolio, ML fitness project (FitGenius), ERP Systems**  
+- 🔭 Currently working on: **Modern portfolio, ML fitness project (FitGenius), ERP Systems, Appoinment Systems**  
 - 🌱 Learning: **Advanced React, TypeScript, ML models, UI/UX**  
 - 💼 Completed 1-year internship as a **React.js Frontend Engineer at Codezilla**  
 - 🎨 Love building clean UI with **Tailwind, MUI, Framer Motion**  
