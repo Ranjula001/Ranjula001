@@ -1,22 +1,6 @@
 # 👋 Hi — I’m Ranjula Ilukpitiya
 
-Software Engineer · Frontend (React & TypeScript) · ML & Fitness-Tech Enthusiast  
-SLIIT — React.js Frontend Engineer (interned) · ML / Computer Vision projects
-
-<p align="center">
-  <a href="https://github.com/Ranjula001">
-    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Ranjula001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  </a>
-  <a href="https://github.com/Ranjula001">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ranjula001&layout=compact&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <img alt="Contribution chart" src="https://ghchart.rshah.org/Ranjula001" />
-  <!-- Alternative: Activity Graph (customizable) -->
-  <!-- <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ranjula001&theme=react-dark&hide_border=true" /> -->
-</p>
+Full Stack Developer (React & TypeScript) · ML & Fitness-Tech Enthusiast  
 
 ---
 
