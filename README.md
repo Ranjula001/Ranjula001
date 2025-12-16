@@ -51,10 +51,6 @@ Machine learning + mobile app with:
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjula001&layout=compact&theme=tokyonight)
-
----
-
 ### 🌍 Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/ranjula-ilukpitiya-95b407226) · [Portfolio](https://portfolio-v4-cyan.vercel.app/) · [Email](mailto:ranjulailukpitiya@gmail.com)
