@@ -61,7 +61,7 @@ Machine learning + mobile app with:
 
 ### 🌍 Connect With Me
 
-[LinkedIn](#) · [Portfolio](#) · [Email](mailto:your.email@example.com)
+[LinkedIn](www.linkedin.com/in/ranjula-ilukpitiya-95b407226) · [Portfolio]([https://portfolio-v4-cyan.vercel.app/]) · [Email](mailto:ranjulailukpitiya@gmail.com)
 
 ---
 
