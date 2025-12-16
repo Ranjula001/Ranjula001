@@ -51,10 +51,6 @@ Machine learning + mobile app with:
 
 ---
 
-### 📊 GitHub Stats
-
-![Ranjula's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ranjula001&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjula001&layout=compact&theme=tokyonight)
 
 ---
