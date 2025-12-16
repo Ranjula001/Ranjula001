@@ -69,7 +69,7 @@ I build performant, accessible, and user-centered frontends with practical backe
 ---
 
 ## Education
-- Bachelor of Science in Information Technology — SLIIT (Sri Lanka Institute of Information Technology) — June 2021 — March 2025 
+- Bachelor of Science in Information Technology — SLIIT (Sri Lanka Institute of Information Technology) — June 2021 — Present  
 - G.C.E. Advanced Level — A/Walisinghe Harischandra College — 2019
 
 ---
